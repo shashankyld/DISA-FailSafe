@@ -5,6 +5,7 @@
 1. Pixhawk - FLight Computer
 2. Raspberry Pi for on flight communication
 3. Motors, GPS,...
+4. Quadrotor Frame
 
 # Software
 
@@ -18,7 +19,9 @@ Two stage solution
 1. Detection of a motor failure
 2. Changing the flight mode to #custom-fail-safe mode for controlled descent 
 
-# 2-- Re-wrote land.cpp in Ardupilot Copter for it to work during a motor failure
+# 2-- Re-wrote land.cpp in Ardupilot Copter for it to work during a motor failure 
+
+# Drive link for the project: https://drive.google.com/drive/folders/1rQyTmwCEs_EBDEC9A8J-dDQ4qWVkhpX8
 
 # Weekly Report
 
