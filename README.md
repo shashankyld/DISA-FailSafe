@@ -1,3 +1,6 @@
+Custom FailSafe mode in case of a motor failure for a quadcopter midflight.
+
+
 # DISA-PROJECT
 
 # GEAR USED 
